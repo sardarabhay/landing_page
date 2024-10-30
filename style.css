@@ -23,7 +23,7 @@ body{
 .links ul{
     list-style-type: none;
     display:flex;
-    gap:20px;
+    gap:25px;
     margin:0px;
     padding :0px;
 }
