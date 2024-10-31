@@ -109,3 +109,26 @@ a{
 .rand-info .container .box .info{
     font-size: 18px;
 }
+
+.quote-section{
+    /* display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    padding:150px 300px;
+    background-color: #E5E7EB;
+}
+
+.quote-section .quote{
+    font-size: 36px;
+    color:#1f2937;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.quote-section .author{
+    display: flex;
+    justify-content: end;
+    font-size: 20px;
+    font-weight: bold;
+}
